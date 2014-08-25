@@ -6,9 +6,14 @@ Art Assets used in the creation of [WildStar](http://www.wildstar-online.com) sp
 
 ### File Structure
 
-The file structure follows along the same structure implemented by Carbine. This is done to help compare what has been changed between Carbine original files versus VikinghugUI files.
-
 * UI/Fonts/
+    - Carbine
+* UI/Icons/
+    - Classes
+    - Paths
+    - Coins
+* Guides/
+    - tColors
 
 ### Want to contribute?
 
