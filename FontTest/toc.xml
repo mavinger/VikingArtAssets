@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Addon Author="venetianthief" APIVersion="9" Name="FontTest" Description="Shows list of all fonts. Only useful within Houston." Version="1.0.0">
-    <Script Name="FontTest.lua"/>
-    <Form Name="FontTest.xml"/>
-</Addon>
